@@ -1,1 +1,29 @@
 /* write your override styles here */
+
+#wall .tag-1 {
+    display: none;
+}
+
+#wall #tag-2 {
+    visibility: hidden;
+}
+
+#tag-3[class="slick wicked"] {
+    visibility: hidden;
+}
+
+.parent #tag-4 {
+    visibility: hidden;
+}
+
+.parent #tag-5 {
+    visibility: hidden;
+}
+
+.parent #tag-6 {
+    visibility: hidden;
+}
+
+#tag-7[class="slick"] {
+    visibility: hidden;
+}
